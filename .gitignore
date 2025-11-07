@@ -1,6 +1,11 @@
 # Prerequisites
 *.d
 
+# OS images
+*.img
+*.raw
+*.qcow2
+
 # Compiled Object files
 *.slo
 *.lo
