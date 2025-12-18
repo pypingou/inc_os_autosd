@@ -36,6 +36,9 @@
 *.out
 *.app
 
+# RPMs related files
+*.rpm
+repodata/
 
 # Bazel
 bazel-*
